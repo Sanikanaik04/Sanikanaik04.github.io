@@ -97,7 +97,3 @@ Shivaji University, Kolhapur
 - **Languages:** English, Hindi, Marathi  
 - **Interests:** Web Application Development, Cloud Computing, Open Source Projects  
 
----
-
-
-⭐ *Thank you for visiting my profile! Feel free to connect with me on LinkedIn.*
