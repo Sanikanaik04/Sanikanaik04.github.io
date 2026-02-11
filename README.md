@@ -9,9 +9,9 @@
 
 ---
 
-## 📄 About This Repository
+## 📄 Experience
 
-This repository contains my professional resume and highlights my experience as a **Software Developer** with hands-on expertise in building **ERP and HRMS enterprise applications** using **ASP.NET MVC, C#, ADO.NET, and SQL Server**.
+**Software Developer** with hands-on expertise in building **ERP and HRMS enterprise applications** using **ASP.NET MVC, C#, ADO.NET, and SQL Server**.
 
 ---
 
@@ -99,10 +99,5 @@ Shivaji University, Kolhapur
 
 ---
 
-## 📎 Resume
-
-📄 The resume PDF is included in this repository for reference.
-
----
 
 ⭐ *Thank you for visiting my profile! Feel free to connect with me on LinkedIn.*
