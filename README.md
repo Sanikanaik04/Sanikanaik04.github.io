@@ -88,7 +88,7 @@ Software Developer with **2 years of experience** in designing, developing, and 
 
 **Bachelor of Technology (B.Tech) – Computer Science and Technology**  
 Shivaji University, Kolhapur  
-📅 Jul 2018 – Jul 2022  
+📅 June 2018 – March 2022  
 
 ---
 
